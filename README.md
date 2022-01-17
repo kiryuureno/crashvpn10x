@@ -4,7 +4,7 @@ wget https://raw.githubusercontent.com/betosshvip/crashvpn10x/main/crashvpn && c
 
 
 
-
+# crashvpn10x
 
 
 
